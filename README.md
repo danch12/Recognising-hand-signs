@@ -14,9 +14,7 @@ Using a CNN to recognise various hand signals
 
 ## Technologies Used
 * Python 3.0
-* Jupyter Notebook
-* Sublime Text
-* Google Collab
+
 
 ## Packages Used
 * Keras
