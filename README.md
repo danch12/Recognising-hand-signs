@@ -4,11 +4,14 @@ Using a CNN to recognise various hand signals
 
 
 ## Table of Contents
-* [Technologies Used]
-* [Packages Used]
-* [Methods Used]
-* [Introduction]
-* [Forming the Dataset]
+* [Technologies Used](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#technologies-used)
+* [Packages Used](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#packages-used
+* [Methods Used](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#methods-used)
+* [Introduction](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#introduction)
+* [Forming the Dataset](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#forming-the-dataset)
+* [Training the Neural Network](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#training-the-neural-network)
+* [Predicting Real Time](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#predicting-real-time)
+* [Conclusion](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#conclusion)
 
 
 
