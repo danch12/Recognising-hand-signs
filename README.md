@@ -5,7 +5,7 @@ Using a CNN to recognise various hand signals
 
 ## Table of Contents
 * [Technologies Used](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#technologies-used)
-* [Packages Used](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#packages-used
+* [Packages Used](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#packages-used)
 * [Methods Used](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#methods-used)
 * [Introduction](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#introduction)
 * [Forming the Dataset](https://github.com/danch12/Recognising-hand-signs/blob/master/README.md#forming-the-dataset)
